@@ -1,4 +1,4 @@
-# POA Network Validators DApp
+# WOA Network Validators DApp
 
 Validators DApp is built for POA Network based blockchains. It gives an opportunity for the current validators of the network to set their personal information on-chain. Also, everyone can view current validators' personal data from this DApp.
 
